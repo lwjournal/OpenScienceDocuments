@@ -1,0 +1,5 @@
+cd /home/arp/Documents/documents/scolaire/licence_sv/S6/643_biodiversite_et_inventaire_faunistique_et_floristique/Faunistique/git
+git add collection_arthropodes_en_lorraine.pdf
+git commit -m "upload report v1.0"
+git branch -M main
+git push -u origin main
